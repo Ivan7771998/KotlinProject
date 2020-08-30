@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinProject</string>
+    <string name="add_count">+1</string>
+    <string name="null_value">0</string>
 </resources>
